@@ -1,8 +1,4 @@
 """
-This module finds the solution of a given sudoku problem
-Code credits: Tim Ruscica
-More info: https://techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/
-Example input board
 board = [
     [7,8,0,4,0,0,1,2,0],
     [6,0,0,0,7,5,0,0,9],
